@@ -4,9 +4,9 @@
 
 ## Getting Started 
 * Fork this repo
-* Clone the forked repository
+* Clone the forked repository 
 * `cd` to the directory where you cloned it
-* `npm install` to install dependencies
+* `npm install` to install dependencies 
 * `npm test` to open the cypress testing window
 
 > *Note*: Remember to `git add`, `git commit` and `git push` regularly
